@@ -47,13 +47,13 @@
 		<dependency>
 		    <groupId>org.apache.tomcat</groupId>
 		    <artifactId>tomcat-jasper</artifactId>
-		    <version>9.0.33</version>
+		    <version>9.0.109</version>
 		</dependency>
 		
 		<dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-jasper</artifactId>
-    <version>9.0.33</version>
+    <version>9.0.110</version>
 </dependency>
 
 <dependency>
